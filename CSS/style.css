@@ -318,6 +318,43 @@ li.deep-drop-down:hover .deep-drop-down-list{
 /* <!-- MOH YASSER CONTRIBUTION   E N D   A B O U T - M E   S E C T I O N --> */
 /* ==================================================================================== */
 /* <!-- S T A R T   NIHAL CONTRIBUTION  S E R V I C E S  S E C T I O N --> */
+.single-serv{
+    padding:35px;
+    background-color: var(--mainServiceColor);
+    /* border-radius: 8px; */
+    /* box-shadow: 10px 10px 10px gray; */
+
+}
+.single-serv .serv-ico{
+    width:6.25rem;
+    height:6.25rem;
+    padding:50px;;
+    border-radius: 50%;
+    border:solid 10px #0078ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    /* box-shadow: 0 0 0 10px #0078ff; */
+    transition: all 0.5s;
+}
+.single-serv .serv-ico i{
+    line-height: 0;
+    font-size: 2rem;
+    transition: all 0.5s;
+}
+.single-serv h2{
+    font-size: 1.4rem;
+}
+.single-serv .serv-ico:hover{
+    background-color:var(--mainColor);
+    border:solid 10px #cde1f8;
+    /* box-shadow: 0 0 0 10px #cde1f8; */
+}
+.single-serv .serv-ico:hover i{
+    color:#fff;
+    
+}
 
 
 

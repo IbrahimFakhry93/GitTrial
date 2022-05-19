@@ -1,0 +1,65 @@
+  <section class="services mb-5">
+        <div class="container text-center ">
+          <header class="section-title text-center">
+            <h3>services</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+          </header>
+            <div class="row mb-5 gy-5">
+              <div class="col-md-4 ">
+                <div class="single-serv rounded shadow">
+                  <div class="serv-ico mb-3">
+                    <i class="fa-solid fa-briefcase"></i>
+                  </div>
+                  <h2 class="serv-title">WEB DESIGN</h2>
+                  <p class="serv-prag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                </div>
+              </div>
+              <div class="col-md-4 ">
+                <div class="single-serv rounded shadow">
+                  <div class="serv-ico mb-3">
+                    <i class="fa-solid fa-list-check"></i>
+                  </div>
+                  <h2 class="serv-title">WEB DEVELOPMENT</h2>
+                  <p class="serv-prag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="single-serv rounded shadow ">
+                  <div class="serv-ico mb-3">
+                    <i class="fa-solid fa-chart-column"></i>
+                  </div>
+                  <h2 class="serv-title">PHOTOGRAPHY</h2>
+                  <p class="serv-prag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                </div>
+              </div>
+           
+              <div class="col-md-4 ">
+                <div class="single-serv rounded shadow">
+                  <div class="serv-ico mb-3">
+                    <i class="fa-solid fa-briefcase"></i>
+                  </div>
+                  <h2 class="serv-title">WEB DESIGN</h2>
+                  <p class="serv-prag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                </div>
+              </div>
+              <div class="col-md-4 ">
+                <div class="single-serv rounded shadow">
+                  <div class="serv-ico mb-3">
+                    <i class="fa-solid fa-list-check"></i>
+                  </div>
+                  <h2 class="serv-title">WEB DEVELOPMENT</h2>
+                  <p class="serv-prag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="single-serv rounded shadow">
+                  <div class="serv-ico mb-3">
+                    <i class="fa-solid fa-chart-column"></i>
+                  </div>
+                  <h2 class="serv-title">PHOTOGRAPHY</h2>
+                  <p class="serv-prag">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                </div>
+              </div>
+            </div>
+        </div>
+      </section>

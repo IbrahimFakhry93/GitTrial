@@ -1,0 +1,35 @@
+section.counter.bg-image{
+    position: relative;
+    background-attachment: fixed;
+    background-image: url(../images/post-3.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+section.counter .container{
+    position: relative;
+    z-index: 1;
+    color:var(--mainProgressBarBred);
+}
+.counter-icon{
+    padding:1rem;
+    width:3.75rem;
+    height:3.75rem;
+    border-radius: 50%;
+    /* border: solid 10px  #cde1f8; */
+    box-shadow: 0 0 0 10px #cde1f8;
+    margin: auto;
+}
+.single-counter i{
+    font-size:2rem;
+    color: var(--mainProgressBarBg);
+}
+.single-counter p{
+   font-size:2rem;
+   color: var(--mainProgressBarBg);
+}
+.single-counter span{
+    font-size:1rem;
+    color: var(--mainProgressBarBg);
+ }
